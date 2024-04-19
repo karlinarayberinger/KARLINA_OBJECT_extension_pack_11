@@ -1,0 +1,175 @@
+/**
+ * file: karbytes_19_april_2024.txt
+ * type: plain-text
+ * date: 19_APRIL_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following two hyperlinks allude to exactly one forum snippet which karbytes downloaded and which pertains to the recently deceased philosopher named Daniel Dennett and to the fact that there has existed a "subculture" of hobbyist intellectuals especially interested in the "phenomenon" of consciousness and in the domains of information technology and computer science. karbytes wanted to mention in this note that karbytes has been a fan of Dennett's work since karbytes was approximately 19 years old and that karbytes thinks that soon there will be artificial intelligence versions of deceased individuals such as Daniel Dennett which could, in some sense, sustain the applied knowledge and personality (if not the continuity of the first-person subjective sentience stream) of deceased human individuals which artificial intelligence is used to build replicas of.
+
+forum_post_url: 
+
+https://news.ycombinator.com/item?id=40088106
+
+forum_post_screenshot_url: 
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_11/main/daniel_dennet_and_hacker_culture_forum_snippet_downloaded_by_karbytes_19april2024.png
+
+* * *
+
+karbytes asked ChatGPT-4 to transcribe the forum conversation text in the aforementioned screenshot image to copy-paste-able plain-text. The remainder of this plain-text file note pertains to the particular aforementioned ChatGPT-4 session with karbytes.
+
+* * *
+
+karbytes ChatGPT-4 Input Message (to append to aforementioned image file uploaded to ChatGPT-4):
+
+Transcribe the text in the uploaded image which is part of the body page text written by forum users.
+
+* * *
+
+ChatGPT-4 Response:
+
+* * *
+
+The text from the image is transcribed below:
+
+A motodataphony 5 hours ago | next [-]
+
+Can't say I met or knew him, but his essays in "The Mind's I" and "Brainstorms" are what got me to pursue tech as a teenager in the early 90s. Along with Hofstadter, his ideas were foundational to hacker culture today. Under the guise of "After Y2K" and a kind of "CS winter" for the last 20 years, the last year of UBIs has forced philosophy of mind back into the public consciousness. Though largely at a time to go, where he has been maligned, I don't see articulations from the trolls we're going to the ideas to reason about ethics as they relate to these things we think of as minds - and providing how we relate to those things in interacting or semblable others. Without too much lionizing (even though he has, however, just died). It would be hard to say that new ideas in philosophy as a whole have had more impact as that time-living research than.
+
+A lot of very deliberate discourse stirred with him too. However, since not one of them could deny they were shaped by the forces they opposed, those controversies became the shape of his own huge and lively career pipeline. I'd, strangely would want to be more bereft for something else, and I have the sense sentimentality was not his thing at all, but his popularization the term "deepity," was in the character of many of his ideas, where once you had been exposed to one, it yielded a perspective you could afterwards not unsee.
+
+I hope an afterlife may provide some of the surprise and delight he brought to so many in this one.
+
+reply
+
+factixy 4 hours ago | parent | next [-]
+
+I'm afraid an afterlife would not leave Dennett in good humor.
+
+reply
+
+amrudianka 3 hours ago | root | parent | next [-]
+
+I'm guessing that was GP's joke.
+
+Similar to Vonnegut's joke at a memorial service for Asimov at the American Humanist Society: "Isaac is up in Heaven now."
+
+It's amusing that when searched for the exact quote just now, I found this ein comment from 2011, on the "in memoriam" thread for Dennett's fellow horseman:
+
+https://news.ycombinator.com/item?id=3366710
+
+reply
+
+dsambloditus 1 hour ago | root | parent | next [-]
+
+Whether Dennett was right or wrong about a deity, he's meeting his maker ;-)
+
+reply
+
+understrik 2 hours ago | root | parent | prev | next [-]
+
+God forgive us. May his memory be eternal.
+
+reply
+
+plamneck 4 hours ago | root | parent | prev | next [-]
+
+I think it would.
+
+Even if he was wrong about it, it's important for us the thinking around it regardless of belief.
+
+The proposition, for example, that consciousness is basically an illusion without empirical basis, one would have to take up as belief, I guess (paradoxically, since to most of us, that would seem like gaslighting (i.e. "if your conclusion is that Descartes was wrong and that we can't even know we are conscious, then to beg to differ?")
+
+reply
+
+sylador 2 hours ago | parent | next [-]
+
+A style is moralism of the boring kind, not even some new moral philosophy AFAIK Dennett did not hold strong moral positions. I let alone moralist, so i feel he was orthogonal to it
+
+reply
+
+A sammatale 2 hours ago | root | parent | next [-]
+
+What moralism is interesting to you?
+
+reply
+
+sammatale 4 hours ago | parent | next [-]
+
+    Along with Hofstadter, his ideas were foundational to hacker culture.
+
+Dennett was an influential thinker, probably more so than Hofstadter overall, but I can't agree with this assessment. For one thing, he became widely known after Consciousness Explained, in 1992, which is simply too late to be foundational to hacker culture, which was well and truly founded by then.
+
+I won't broaden my case here, lest anything I say be interpreted as speaking ill of the dead. I'm certain he was a major influence for many who post here, yourself included, and I don't intend to detract from that.
+
+reply
+
+PostMustBeThisShort 4 hours ago | parent | next [-]
+
+Maybe you discovered Dennett after 1992, but he was a well-known and widely published philosopher long before.
+
+"Elbow Room: the varieties of free will worth wanting" was a landmark work and was published in 1984.
+
+"The Minds If" (co?/after?)/ended was relatively speaking, a hugely popular work published in 1981.
+
+    In 1993, the word "hacker" was not, this "clique's" heyday
+
+    Daniel Dennett is arguably one of the most influential yet radical philosophers in America today.
+
+Dennett sound much like someone who "became widely known" after a book published in 1992.
+
+reply
+
+sxsx 1 hour ago | root | parent | next [-]
+
+You both have a point. Hacker culture was well established by the 70s, so still a decade before Dennett's earlier works.
+
+I do think its true that some of his work has resonated with many people who also resonate with "hacker culture".
+
+reply
+
+HackerCultureIs 35 minutes ago | root | parent | next [-]
+
+A problem with that was not well established by the 70s, simply because so few people worked with computers in that decade. You can certainly trace its roots back to at least 1970, but it really did not become established en masse.
+
+What most people identify as "hacker culture" today arose in tandem with (a) relatively affordable "personal" computers to modern-based communication.
+
+The rise of those two things is more or less entirely cotemporal with the most productive phase of Dennett's career.
+
+reply
+
+4 Beaur3 hours ago | parent | next [-]
+
+Both of you said, honestly brought me some solace. Echoing your endorsement of Brainstorms — I expect/hope this will be his enduring legacy!
+
+Dennett's ideas are absolutely large, i.e. especially hums to me where the pioneers passing away right out with so many groundbreaking cognitive science discoveries are being made. Especially in the case of the lungs "on," both titian Grant and soon after lychee… to see these Al aging appearing discover "homoDEUS" by LIDS in the eyes of Silicon Valley celebrities like Hinton and Fei-Fei Oh, well, I'm sure there'll be support to their less repeated [from the UK?], yet of Shirley Anderson "dada". A spear or sharpened "only time who, however, will the period of my real influence begin, and I trust that it will be a long one, at least partially.
+
+Luckily, Dennett is under no such doubt, and he did more to less a hero in my eyes: certainly among the most influential connectionist philosophers (Dreyfus & Clark?), who seemed very helpful in re-legitimating ML for one, don't think I would be odd or see philosophers like Dennett and Hofstadter in a Turing Award announcement someday...
+
+reply
+
+Optimad Persona 3 hours ago | parent | next [-]
+
+What do you mean by "CS winter of the last 20 years"?
+
+The research of Dr. Bruce Perry, Bessel van der Kolk and others into the effects of trauma on brain development, behavior and social functioning has had a profound impact on the understanding of cognition, the mind-body continuum, and the treatment of human suffering in this frame time.
+
+https://en.wikipedia.org/wiki/2023-2024-autism-therapy-ai...
+
+reply
+
+stevehait 3 hours ago | root | parent | next [-]
+
+I think what he means is that many of the seminal work related to cognitive science were produced back then. For example, Chomsky, Minsky, John Searle, David Chalmers and many more.
+
+Things still move during winter, just not as much.
+
+reply
+
+* * *
+
+END_OF_FILE
+
+* * *
