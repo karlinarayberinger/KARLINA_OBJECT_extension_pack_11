@@ -1,4 +1,6 @@
-e: plain-text
+/**
+ * file: mdisc_karbytes_ultra_2024_edition_2.txt
+ * type: plain-text
  * date: 24_APRIL_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
