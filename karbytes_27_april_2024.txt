@@ -1,0 +1,38 @@
+/** 
+ * file: karbytes_27_april_2024.txt
+ * type: plain-text
+ * date: 26_APRIL_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "What is the smallest nonnegative integer?"
+
+karbytes_1: "I would say that one is the smallest nonnegative integer because it is the smallest finite unit for measuring or describing anything."
+
+karbytes_2: "I would say that zero is the smallest nonnegative integer because it takes up less space than does one."
+
+karbytes_0: "100 divided by 1 is equivalent to 100 because exactly one hundred instances of one can fit inside of one hundred."
+
+karbytes_0: "1 divided by 100 is equivalent to 0.01 because exactly one hundred instances of 0.01 can fit inside of 1."
+
+karbytes_0: "1 divided by 1 is equivalent to 1 because exactly one instance of one can fit inside of one."
+
+karbytes_0: "0 divided by 1 is equivalent to 0 divided by any other (nonzero) number (and the result of dividing 0 by 1 is 0) because zero does not occupy any 'length' of 'space' while all other numbers occupy some finite 'length' of 'space'. Hence, adding zero to itself any number of times always produces the same result: zero."
+
+karbytes_0: "Attempting to divide any number by zero is logically equivalent to attempting to count how many instances of 'non length' can fit inside of any 'length' (or inside of any 'non length')."
+
+karbytes_1: "I would say that dividing any number by zero is equivalent to zero because there is no such thing as zero (but there is a such thing as one (because one can be measured and therefore assigned a unique identity which distinguishes that particular one from all other objects which each represent the same irreducibly finite 'length')). Zero is not the absence of some instance of one nor is zero the absence of any particular summation of ones. Therefore, dividing any number by zero should be the same logical procedure as is multiplying any number by zero."
+
+karbytes_2: "I would say that dividing any number by zero is equivalent to infinity because limitlessly many objects which each have no 'length' can fit inside of any 'length'."
+
+karbytes_1: "Dividing any number by zero is not necessarily equivalent to infinity. Infinity is not a number. The result of any arithmetic operation using two operand numbers (which are each represented as a finite sequence of decimal digits) is always a quantity which can be represented as a finite sequence of decimal digits."
+
+karbytes_0: "One exception to what karbytes_1 said is dividing 1 by 3. The result of that division produces a sequence of decimal digits which contains indefinitely many digits to the right of the radix. Therefore, not every arithmetic operation whose inputs are each quantities which can be represented as a finite sequence of decimal digits yields an output quantity which can also be represented as a finite sequence of decimal digits. Also, just because an electronic calculator returns some string such as INFINITY in response to invoking the function of dividing any number by zero does not mean that the respective input quantity divided by zero is logically equivalent to the concept of infinity. INFINITY might be a placeholder for some arbitrary constant numberic value which the computer uses as some computational limit (for the sake of not running out of energy, data storage, and computation time when performing a resource-intensive computation)."
+
+karbytes_2: "Infinity is not a number. Instead, infinity is a hypothetical procedure of ceaseless increase. It would therefore take an electronic computer infinite time to finish the procedure of dividing one by zero because the computer does not stop counting instances of zero inside of one."
+
+karbytes_1: "I would rephrase what karbytes_2 most recently said by suggesting that the computer does not even start couting instances of zero inside of one. Therefore, the output to that computation should be zero; not INFINITY."
+
+karbytes_0: "The significance of this blog post is that it implicitly suggests that conventions used in mathematics and in computer programming might be arbitrary and subject to future revision by information processing agents which are interested in making such revisions. Otherwise, such conventions would remain in tact without revision or else would cease to be retained. The entirely data-comprised artifacts which mathematics and computer programming substantiate each require finite (yet increasing) amounts of time, space, matter, and energy in order to be retained in any information processing agent's memory between now and some arbitrary point in the future other than now."
+
